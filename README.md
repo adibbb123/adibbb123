@@ -26,10 +26,6 @@ Developing an AI-based web application to automate the analysis of corporate sus
 ### DueBuddy – Task Management Mobile Application
 Collaborated in developing a mobile application to help students organize academic tasks and manage deadlines.
 
-### Smart Greenhouse IoT Monitoring System
-Built an IoT-based greenhouse monitoring prototype with real-time sensor readings and alert indicators.
-
 ## Contact
 
 - **Email:** muhdadibhakimi111@gmail.com  
-- **LinkedIn:** [Insert your LinkedIn profile link]
